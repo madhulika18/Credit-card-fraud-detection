@@ -1,0 +1,9 @@
+pandas == 2.1.4
+numpy == 1.26.4
+matplotlib ==3.7.1
+seaborn == 0.13.1
+sklearn == 1.4.2
+imblearn == 0.12.3
+pycaret == 3.3.2
+xgboost
+lightgbm
