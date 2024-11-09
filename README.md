@@ -87,7 +87,7 @@ We have used pycaret module to identify the best model for this project. The fol
 
 
 ### 6.	Outcome
-**Random Forest Classifier** turns out to be the best fit for this model (among these 5 models). With high test accuracy (99.96%), it also has high precision (97%) and good Recall (80%) and F1 – Score (88%).
+•	The best models among these 5 would be **Extreme Gradient Boosting** and **Extra Trees Classifier** Model as both have the highest F1 – Score (90%).
 
 Uploaded a detailed outcome report (Credit card fraud report.pdf) for the same.
 
